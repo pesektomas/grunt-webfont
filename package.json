@@ -1,7 +1,7 @@
 {
   "name": "grunt-webfont",
   "description": "Ultimate SVG to webfont converter for Grunt.",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "homepage": "https://github.com/sapegin/grunt-webfont",
   "author": {
     "name": "Artem Sapegin",
@@ -9,7 +9,8 @@
   },
   "contributors": [
     "Maxime Thirouin (http://moox.io/)",
-    "Aaron Lampros (https://github.com/alampros)"
+    "Aaron Lampros (https://github.com/alampros)",
+    "Cyrille Meichel (https://github.com/landru29)"
   ],
   "repository": {
     "type": "git",
@@ -35,7 +36,7 @@
     "mkdirp": "~0.5.1",
     "svg2ttf": "~2.1.1",
     "svgicons2svgfont": "~1.1.0",
-    "svgo": "~0.6.1",
+    "svgo": "~1.2.2",
     "temp": "~0.8.3",
     "ttf2eot": "~1.3.0",
     "ttf2woff": "~1.3.0",
